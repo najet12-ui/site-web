@@ -1,5 +1,5 @@
 # site-web
-c'est un pe site web de restaurant
+c'est un petit site web de restaurant
 #page-index.php
 <!DOCTYPE html>
 <html lang="en">
